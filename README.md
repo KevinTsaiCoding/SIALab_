@@ -12,6 +12,7 @@ You need to use bridge connection if your IP is start with 192.
                                                                                         指令:sudo rm -r 資料夾名稱
 # Linux
 
-![66811852_1328657197282395_7522855091204784128_n](https://user-images.githubusercontent.com/48882710/61430607-0310dc00-a95d-11e9-9c07-448e5c9040c6.jpg)
+![擷取_2019_07_18_14_40_29_240](https://user-images.githubusercontent.com/48882710/61435010-10809300-a96a-11e9-846d-44cec0d89fab.png)
+
 
                                                                                         Linux 樹狀結構
