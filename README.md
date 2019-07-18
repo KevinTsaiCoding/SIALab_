@@ -9,4 +9,4 @@ You need to use bridge connection if your IP is start with 192.
 
 ![擷取_2019_07_18_11_37_22_601](https://user-images.githubusercontent.com/48882710/61427420-ad363700-a950-11e9-98a8-e9ee337d519b.png)
                                                             
-                                                                                            sudo rm -r 資料夾名稱
+                                                                                        指令:sudo rm -r 資料夾名稱
